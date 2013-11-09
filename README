@@ -1,0 +1,5 @@
+This contains the main work for Week 1 of Tealeaf Academy: interactive blackjack game.
+
+i) Blackjack.rb - my first version which I created myself without looking at other people's code. A bit convoluted but it works! It took me two days though.
+
+ii) blackjack_v2.rb - 2nd version after seeing the solution. More efficient and better practice.
